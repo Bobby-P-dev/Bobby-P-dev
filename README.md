@@ -20,23 +20,37 @@ Fresh graduate in Informatics with experience building and maintaining enterpris
 
 ### Backend
 
-
-
-\
+* Laravel
+* PHP
+* Golang
+* REST API
 
 ### Database
 
-\
+* PostgreSQL
+* MySQL
+* SqlServer
 
 ### Frontend
 
-
-\
+* JavaScript
+* Vue.js
+* Next.js
+* Bootstrap
+* Tailwind Css
+* Shadcn
+* HTML
+* CSS
 
 ### Tools
 
+* Git
+* GitHub
+* Docker
+* Linux
+* Postman
+* Figma
 
-\
 
 ---
 
@@ -71,10 +85,6 @@ Multi-level approval system with configurable workflow management.
 ### 📊 Employee Analytics Dashboard
 
 Dashboard for employee performance monitoring and KPI analytics.
-
----
-
-## 📈 GitHub Statistics
 
 ---
 
